@@ -1,0 +1,10 @@
+
+monai==1.1.0
+torch>=1.9
+torchvision>=0.10
+numpy>=1.21
+pillow>=8.3
+tensorboard>=2.7
+tqdm>=4.62
+requests>=2.26
+matplotlib>=3.4
